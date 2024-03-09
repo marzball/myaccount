@@ -10,11 +10,6 @@ This is a one-page personal about me website built using HTML, CSS, and JavaScri
 
 ## Demo
 
-You can see the live demo of the website by clicking [`here`](https://danieleverest.github.io/Personal-Portfolio/)
-
-## Screenshots
-
-![mobile.png](https://i.postimg.cc/7PRBK79C/site-ss.png)
 
 ## Customization
 
